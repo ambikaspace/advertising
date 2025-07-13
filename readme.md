@@ -32,7 +32,6 @@ This can help **marketing teams** optimize their ad budgets and allocate resourc
 - **RMSE:** `1.77`  
 - **Visualization:** Scatterplot of Actual vs Predicted Sales
 
-📸 ![Actual vs Predicted Sales](download.png)
 
 ---
 
